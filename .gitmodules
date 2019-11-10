@@ -1,0 +1,3 @@
+[submodule "dependencies/lib"]
+	path = dependencies/lib
+	url = git@github.com:ppandey-IN/lib.git
